@@ -2,5 +2,5 @@
 int main(){
 	int a,b;
 	cin>>a>>b;
-	cout<<"the sum is "<<a+b<<endl;
+	cout<<"The sum of "<<a<<" and "<<b<<" is "<<a+b<<endl;
 }
